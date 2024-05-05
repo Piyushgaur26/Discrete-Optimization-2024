@@ -1,4 +1,4 @@
-## Discrete Optimization UPDATED 2023
+## Discrete Optimization UPDATED 2024
 
 ## ALL CREDITS GOES TO https://github.com/kouei/discrete-optimization
 
